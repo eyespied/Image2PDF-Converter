@@ -7,3 +7,6 @@
 *.log
 __pycache__
 .venv
+*.ico
+Image2PDFConverter.spec
+Image2PDF Converter_original.exe
